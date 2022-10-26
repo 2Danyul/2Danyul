@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danyul.</h1>
 <h3 align="center">A passionate frontend developer from Norway.</h3>
 
-<p align="left"> <a href="https://twitter.com/heydanyul" target="blank"><img src="https://img.shields.io/twitter/follow/heydanyul?logo=twitter&style=for-the-badge" alt="heydanyul" /></a> </p>
-
 - 🔭 I’m currently working on **ProCon**
 
 - 🌱 I’m currently learning **3D Modelling.**
@@ -14,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heydanyul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heydanyul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucv_gyzzmp8fscxvyad4hlbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucv_gyzzmp8fscxvyad4hlbq" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cr6bQKsfzU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cr6bQKsfzU" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucv_gyzzmp8fscxvyad4hlbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucv_gyzzmp8fscxvyad4hlbq" height="30" width="40" /></a>
+<a href="https://discord.gg/cr6bQKsfzU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cr6bQKsfzU" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/danyul"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danyul" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2danyul&" alt="2danyul" /></p>
