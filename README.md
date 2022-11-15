@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danyul.</h1>
 <h3 align="center">A passionate fullstack developer from Norway.</h3>
+<h3 align="center"><a href="https://danyul.gg/)" target="_blank">danyul.gg</a></h3>    
 
 - 🔭 I’m currently working on **I am currently the Founder & CEO of my own company.**
 
