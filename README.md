@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danyul.</h1>
 <h3 align="center">A passionate fullstack developer from Norway.</h3>
 
-- 🔭 I’m currently working on **ProCon**
+- 🔭 I’m currently working on **ProCon & SatireNews as well as running my own company.**
 
-- 🌱 I’m currently learning **3D Modelling.**
+- 🌱 I’m currently learning **3D Modelling & Deep Learning.**
 
-- 👨‍💻 All of my projects are available at [https://danyul.gg/](https://danyul.gg/)
+- 👨‍💻 All of my projects are available at [danyul.gg](https://danyul.gg/)
 
-- 📫 How to reach me **mail@danyul.gg**
+- 📫 Reach me at **mail@danyul.gg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
